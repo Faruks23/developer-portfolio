@@ -9,6 +9,7 @@
   background-color: #FFF8F3;
   width: 1600px;
   height: 837px;
+  overflow: hidden
   
  ;
 }
@@ -40,7 +41,7 @@ nav ul{
 }
 .btn-heir{
   width: 150px;
-  height: 64px;
+  height: 50px;
   background-color: #FD6E0A;
   border-radius: 5px;
   border: none;
@@ -49,5 +50,61 @@ nav ul{
 
 }
 .header-img{
-  background-image: url(ima);
+ position: absolute;
+ width: 1036px;
+height: 518px;
+left: 600px;
+top: 323px;
+}
+.hardy{
+position: absolute;
+width: 584px;
+height: 676px;
+left: 858px;
+top: 165px;
+
+}
+.cntent{
+  position: absolute;
+width: 598px;
+height: 356px;
+left: 226px;
+top: 297px;
+
+}
+.title-1{
+font-weight: 600;
+font-size: 45px;
+line-height: 61px;
+
+}
+.titel-2{
+font-weight:700;
+font-size: 85px;
+line-height: 116px;}
+.t-para{
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+margin-bottom: 70px;
+/* or 167% */
+
+
+/* Dark 03 */
+
+color: #757575;
+}
+.btn-d{
+  padding: 10px;
+  width: 150px;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  
+  font-size: 18px;
+  box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
+}
+.btn-c{
+  background-color: #FD6E0A;
+  color: white;
 }
