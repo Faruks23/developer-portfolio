@@ -108,3 +108,9 @@ color: #757575;
   background-color: #FD6E0A;
   color: white;
 }
+.developer img{
+  width:100px;
+  position: absolute;
+  margin-left: 40px;
+  margin-top: -60px;
+}
